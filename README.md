@@ -12,9 +12,9 @@ Random Forest Classifier – 67% accuracy
 Gradient Boosting Classifier – 78% accuracy
 
 Pipeline Overview:
-Data cleaning and preprocessing
-Feature selection and engineering
-Model training and performance evaluation
+Data cleaning and preprocessing,
+Feature selection and engineering,
+Model training and performance evaluation,
 Hyperparameter tuning to boost accuracy
 
 Beginner-Friendly: Code is clean, well-commented, and structured to help newcomers understand each step of the process.
